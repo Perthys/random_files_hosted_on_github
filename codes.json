@@ -1,6 +1,5 @@
-
 {
-  "Code": {
+  "CODE": {
     "Awards": [
       {
         "AwardType": "Charm",
@@ -19,11 +18,14 @@
         "Data": "VehicleName"
       },
       {
-        "AwardType": "BottleCaps",
-        "Data": 1000
+        "AwardType": "Currency",
+        "Data": {
+          "Amount": 1000,
+          "Currency": "BottleCaps"
+        }
       }
     ],
-    "Name": "Code",
+    "Name": "CODE",
     "Active": true
   }
 }
