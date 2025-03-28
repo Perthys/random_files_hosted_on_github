@@ -1,1 +1,29 @@
 
+{
+  "Code": {
+    "Awards": [
+      {
+        "AwardType": "Charm",
+        "Data": "CharmName"
+      },
+      {
+        "AwardType": "CarSkin",
+        "Data": "CarSkinName"
+      },
+      {
+        "AwardType": "UnlimitedItem",
+        "Data": "UnlimitedItemName"
+      },
+      {
+        "AwardType": "Vehicle",
+        "Data": "VehicleName"
+      },
+      {
+        "AwardType": "BottleCaps",
+        "Data": 1000
+      }
+    ],
+    "Name": "Code",
+    "Active": true
+  }
+}
